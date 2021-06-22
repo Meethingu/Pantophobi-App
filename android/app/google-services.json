@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321945546865",
+    "project_id": "pantophobi-2ee0a",
+    "storage_bucket": "pantophobi-2ee0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321945546865:android:9ccebcccb9ea8394ff2bd0",
+        "android_client_info": {
+          "package_name": "com.example.pantophobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321945546865-rhevu4ndkie3e6gnhekd6es47odofvh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pantophobi",
+            "certificate_hash": "d6c883ad303938b7b11db523121b5fdeac31d6c5"
+          }
+        },
+        {
+          "client_id": "321945546865-rag42rt1ppjbtn8q7j7h3vk12lu183ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobr3yRBunnvLgxcXt5ltZXzgD8OIK0OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321945546865-rag42rt1ppjbtn8q7j7h3vk12lu183ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
